@@ -7,5 +7,12 @@
 </head>
 <body>
     <h1>Hello World</h1>
+
+    <ul>
+        <li>{{$name}} {{$surname}}</li>
+        <li>{{$email}}</li>
+        <li>{{$agency}}</li>
+
+    </ul>
 </body>
 </html>
